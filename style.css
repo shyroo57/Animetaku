@@ -2,7 +2,6 @@
 *
 html
 {
-    font-family: 'Kanit', sans-serif;
     text-align: center;
     background: rgb(179,149,226);
     background: linear-gradient(90deg, rgba(179,149,226,1) 0%, rgba(9,80,121,1) 40%, rgba(0,212,255,1) 100%);;
