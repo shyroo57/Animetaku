@@ -5,5 +5,5 @@ html
     text-align: center;
     background: rgb(179,149,226);
     background: linear-gradient(90deg, rgba(179,149,226,1) 0%, rgba(9,80,121,1) 40%, rgba(0,212,255,1) 100%);;
-   
+   background-image: url(https://commons.wikimedia.org/wiki/File:Image_created_with_a_mobile_phone.png#/media/Fichier:Image_created_with_a_mobile_phone.png);
 }
