@@ -1,2 +1,2 @@
 # Animetaku
-site de streaming pur regardez des anime gratuitement
+site de streaming pour regardez des anime gratuitement en vf et vostfr!!
